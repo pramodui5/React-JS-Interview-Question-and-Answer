@@ -1,4 +1,5 @@
 # React-JS-Interview-Question-and-Answer
+### WellsFargo ( Round-I )
 #### 1. What is Refs?
 Refs provide a way to access DOM nodes or React elements created in the render method.
 #### 2.	What is Promise used for? 
@@ -94,3 +95,47 @@ We need a way to change the behavior of a child component without having to look
 #### 24.	Redux component 
 There are three building parts: actions, store, and reducers.
 https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/#:~:text=There%20are%20three%20building%20parts,but%20this%20time%20in%20Redux.
+
+
+### WellsFargo ( Round-II)
+
+#### 1.	Explain about the current project?
+
+#### 2.	What is component? 
+A Component is one of the core building blocks of React. In other words, we can say that every application you will develop in React will be made up of pieces called components.
+
+#### 3.	Why we use react? 
+
+#### 4.	What is virtual Dom? How it is work and which type of algorithim used in virtual dom? 
+
+#### 5.	Diff between class and function component? 
+
+#### 6.	How to pass data from parent to child and child to parent?  
+
+#### 7.	How to connect react and Redux in class component and functional component?
+
+#### 8.	What is useSelector, useDispatch, mapStateToProps, mapStateToDispatch? 
+
+#### 9.	What is useState and useEffect?
+
+#### 10.	What is Life cycle methods in react? 
+
+#### 11.	What is ref, Why and how to use?
+
+#### 12.	UseReducer and useMemo?
+
+#### 13.	What is side effect?
+
+#### 14.	What is Redux and why it is required for the application?  
+
+#### 15.	What is Redux-Thunk and Redux-Saga? And their uses?
+
+#### 16.	Position property  in CSS 
+
+#### 17.	Flex box 
+
+#### 18.	How to do code coverage in Unit? Uses of React Testing Library 
+
+#### 19.	What is Accesibility?
+
+**Pure Components** in React are the components which do not re-renders when the value of state and props has been updated with the same values. If the value of the previous state or props and the new state or props is the same, the component is not re-rendered. Pure Components restricts the re-rendering ensuring the higher performance of the Component
