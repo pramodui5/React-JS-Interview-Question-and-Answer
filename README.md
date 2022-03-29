@@ -94,6 +94,7 @@ We need a way to change the behavior of a child component without having to look
 
 #### 24.	Redux component 
 There are three building parts: actions, store, and reducers.
+
 https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/#:~:text=There%20are%20three%20building%20parts,but%20this%20time%20in%20Redux.
 
 
