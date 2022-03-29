@@ -45,7 +45,8 @@ A generator allows you to pause the execution of a function and resume it later.
 
 #### 12.	Unit test and its question 
 #### 13.	Setstate and without setstate can update   
-#### 14.	Application folder structure  - 
+#### 14.	Application folder structure 
+![image](https://user-images.githubusercontent.com/12524071/160592174-3418ad99-eeb3-4507-8374-f537504c2023.png)
  
 #### 15.	What is Usememo?
 React has a built-in hook called **useMemo** that allows you to memoize expensive functions so that you can avoid calling them on every render. You simple pass in a function and an array of inputs and useMemo will only recompute the memoized value when one of the inputs has changed.
